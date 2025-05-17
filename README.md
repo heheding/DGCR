@@ -61,3 +61,12 @@ This work was supported by:
 * National Natural Science Foundation of China (62403121)
 * Shanghai Pujiang Program (22PJ1423400)
 * Shanghai Sailing Program (no. 22YF1401300)
+  
+## 📕 References
+[1] Wang H, He H, Katabi D. Continuously indexed domain adaptation. Proc Int Conf Mach Learn, 2020: 9898–9907.
+
+[2] Zhou Q, Gu Q, Pang J, et al. Self-adversarial disentangling for specific domain adaptation. IEEE Trans Pattern Anal Mach Intell, 2023, 45(7): 8954–8968.
+
+[3] Xu Z, Hao G, He H, et al. Domain-indexing variational bayes: Interpretable domain index for domain adaptation. Proc Int Conf Learn Represent, 2023.
+
+[4] Shi Z, Ming Y, Fan Y, et al. Domain generalization via nuclear norm regularization. Proc Mach Learn Res, 2024, 234: 179–201.

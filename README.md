@@ -30,7 +30,7 @@ Due to corporate confidentiality, we only provide examples on the public Gas tur
 sh DGCR.sh
 ```
 
-Adjust any configuration flags or data paths inside `DGCR.sh` and "DGCR.py" as needed for your setup.
+Adjust any configuration flags or data paths inside `DGCR.sh` and `DGCR.py` as needed for your setup.
 
 
 ## 📊 Performance Comparison

@@ -35,7 +35,7 @@ Adjust any configuration flags or data paths inside `DGCR.sh` and `DGCR.py` as n
 
 ## 📊 Performance Comparison
 
-As shown in the table, IDTL outperforms the other methods in both MAE, RMSE and R2:
+As shown in the table, IDTL outperforms the other methods in both MAE, RMSE and R²:
 ### Performance Comparison on CO and NOₓ Prediction Tasks
 
 | Method | MAE (CO) | RMSE (CO) | R² (CO) | MAE (NOₓ) | RMSE (NOₓ) | R² (NOₓ) |

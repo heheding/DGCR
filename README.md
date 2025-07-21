@@ -52,7 +52,7 @@ As shown in the table, IDTL outperforms the other methods in both MAE, RMSE and 
 
 If you use this code in your research, please cite:
 
-> DING H, HAO K R, CHEN L, et al. Variational inference domain generalization with coupling relationships for industrial concept drift. *Sci China Inf Sci*, for review.
+> DING H, HAO K R, CHEN L, et al. Variational inference domain generalization with coupling relationships for industrial concept drift. *TCYB*, for review.
 
 ## 🙏 Acknowledgements
 
